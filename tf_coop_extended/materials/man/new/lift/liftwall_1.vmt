@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "man/new/lift/liftwall_1"
+	"$bumpmap" "MAN/new/lift/liftwall_1_normal"
+	"$surfaceprop" "wood"
+}

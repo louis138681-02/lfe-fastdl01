@@ -1,0 +1,6 @@
+"unlitGeneric"
+{
+	"$baseTexture" "MAN/NEW/buttons/prikaz"
+	"$surfaceprop" "metal"
+	"$bumpmap" "MAN/NEW/buttons/prikaz_n"
+}
