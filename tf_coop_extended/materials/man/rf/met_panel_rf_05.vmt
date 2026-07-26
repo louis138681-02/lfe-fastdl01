@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "MAN/RF/met_panel_rf_05"
+	"$surfaceprop" "metal"
+	"$bumpmap" "MAN/RF/met_panel_rf_05_normal"
+}
