@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\w_minigun\w_minigun01"
+	"$bumpmap" 	   "models\weapons\w_minigun\w_minigun01_phongmask"
+	
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[1.5 .5 3]"
+	"$halflambert" "1"
+
+	"$basephongexponent" "15"
+	"$basephongboost" "1"
+}
