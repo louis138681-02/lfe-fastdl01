@@ -1,0 +1,14 @@
+"LightMappedGeneric"
+{
+"$baseTexture" "animated/nsb14_heavy"
+"$surfaceprop" "Default"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "1"
+}
+}
+}

@@ -1,0 +1,14 @@
+"LightMappedGeneric"
+{
+"$baseTexture" "animated/bugs-life-a-bugs-life"
+"$surfaceprop" "Default"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "8"
+}
+}
+}

@@ -1,0 +1,14 @@
+"LightMappedGeneric"
+{
+"$baseTexture" "animated/togif"
+"$surfaceprop" "Default"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "8"
+}
+}
+}

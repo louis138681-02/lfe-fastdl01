@@ -1,0 +1,14 @@
+"LightMappedGeneric"
+{
+"$baseTexture" "animated/mimi_sentry"
+"$surfaceprop" "Default"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "8"
+}
+}
+}
